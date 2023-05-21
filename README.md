@@ -93,6 +93,7 @@ commit 225466bc3e5f35baa5d07197bbc079345b77525e
 ```
 Найдите все коммиты, в которых была изменена функция globalPluginDirs.
 * не нашел командами из лекции изменений в файлах plugin.go, command.go, config.go
+
 Кто автор функции synchronizedWriters?
 ```
 Author: Martin Atkins <mart@degeneration.co.uk>
